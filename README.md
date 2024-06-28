@@ -31,6 +31,7 @@ I am passionate about computer science and constantly strive to deepen my knowle
 ## My Test Documentation
 * Test Cases poczta.wp.pl: [Test Cases](https://docs.google.com/spreadsheets/d/18Xmhh3tRamWLdm_TDq5BN4WvvZVfIYSU/edit?usp=share_link&ouid=111608399655409738559&rtpof=true&sd=true)
 * Test Cases poczta.onet.pl: [Test Cases](https://docs.google.com/spreadsheets/d/1VU5OnAx887_1Jbt7A_CVHA3MMCUuHfuX/edit?usp=share_link&ouid=111608399655409738559&rtpof=true&sd=true)
+* Bug report MrBuggy3: [Bug report in Jira](https://github.com/DamWtulTest/DamWtulTest/blob/main/Images/Raport%20defektów%20-%20MrBuggy3.md)
 * Bug report MrBuggy7: [Bug report in Jira](https://github.com/DamWtulTest/DamWtulTest/blob/main/Images/Raport%20defektów%20-%20MrBuggy7.md)
 
 
