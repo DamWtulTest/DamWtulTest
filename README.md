@@ -29,6 +29,7 @@ I am passionate about computer science and constantly strive to deepen my knowle
 * Manual Tester individual training ALX
 
 ## My Test Documentation
+* Bug report MrBuggy7: [Bug report in Jira]
 
 
 - 🔭 I’m currently working on this page. 
