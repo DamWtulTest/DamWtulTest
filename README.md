@@ -8,8 +8,15 @@ I am passionate about computer science and constantly strive to deepen my knowle
 
 ## Skills and Experience
 
-* :computer:
-Skills: TS and TC Creation and management / JIRA / Testlink / Testrail / Postman / SQL / REST API
+* 💻 TS and TC Creation and management
+* 🖱️ Testlink
+* :atom: JIRA
+* 🏣Postman
+* :accessibility:Testrail
+* 🧭SQL
+* 🔠REST API
+
+
 
 - 🔭 I’m currently working on this page. 
 
