@@ -11,11 +11,24 @@ I am passionate about computer science and constantly strive to deepen my knowle
 * 💻 TS and TC Creation and management
 * 🖱️ Testlink
 * :atom: JIRA
-* 🏣Postman
-* :accessibility:Testrail
-* 🧭SQL
-* 🔠REST API
+* 🏣 Postman
+* :accessibility: Testrail
+* 🧭 SQL
+* 🔠 REST API
 
+## TRAITS
+
+* Meticulousness and accuracy
+* Assertiveness
+* Problem-solving
+* Creativity
+* Teamwork 
+* Communication
+* Analytical thinking
+## Certificates
+* Manual Tester individual training ALX
+
+## My Test Documentation
 
 
 - 🔭 I’m currently working on this page. 
