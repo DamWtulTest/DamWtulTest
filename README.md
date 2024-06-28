@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Damian Wtulich
 #### Software Tester
-![Software Tester](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Tester](https://github.com/DamWtulTest/DamWtulTest/blob/main/20943846.jpg)
 
 I am a dedicated manual tester with hands-on experience in the .NET ecosystem and experience in the Angular and React frameworks. My role encompasses a broad spectrum of quality assurance tasks, including building comprehensive test plans, executing manual tests meticulously, and reporting results using tools like JIRA and Azure DevOps.
 
